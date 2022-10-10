@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EriPrincessCodes
+- 👋 Hi, I’m @Eri
 - 👀 I’m a Full Stack Software Engineer in Tech.
 - 🌱 I’m currently a Software Engineer Freelancer.
 - 💞️ I’m looking to collaborate on Tech Projects.
