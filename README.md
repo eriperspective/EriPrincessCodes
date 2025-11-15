@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Software Engineer | Cloud & AI Enthusiast | Creative Problem Solver
+### Software Engineer | Cloud & AI Enthusiast | Creative Solutions
 
 *Building elegant solutions at the intersection of innovation and accessibility*
 
