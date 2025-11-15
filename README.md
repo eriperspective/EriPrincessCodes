@@ -16,13 +16,20 @@
 
 ## 🌟 About Me
 
-I'm a **Software Engineer** working at the intersection of **Cloud** and **AI** technologies, driven by a passion for crafting innovative, scalable solutions and meaningful perspectives. 
+I'm a **Software Engineer** working at the intersection of **Cloud** and **AI** technologies, driven by a passion for crafting innovative, scalable solutions and meaningful perspectives.
+
+<div align="center">
+  
+### 🔥 **396 Commits in 2025** | Actively Building & Shipping
+
+</div> 
 
 - 🔭 Currently building **full-stack applications** with modern frameworks and AI integrations
 - 🌱 Exploring **Cloud Security**, **AI/ML**, and **emerging technologies**
 - ✍️ Writing about tech, cloud security, and AI on [Medium](https://eriperspective.medium.com)
 - 🤝 Volunteering with youth and individuals with disabilities
 - 💡 Committed to **mindful, inclusive, human-centered design**
+- 🔒 Much of my production work lives in private repositories
 
 ---
 
@@ -91,17 +98,6 @@ An AI-powered financial analysis platform using agentic AI and RAG architecture.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eriperspective&show_icons=true&theme=default&hide_border=true&bg_color=f5f3f0&title_color=6f6b5b&text_color=4a473c&icon_color=b9b297)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eriperspective&layout=compact&theme=default&hide_border=true&bg_color=f5f3f0&title_color=6f6b5b&text_color=4a473c)
-
-</div>
-
----
 
 ## 💬 Let's Connect!
 
@@ -121,4 +117,5 @@ I'm always open to collaborating on projects, discussing tech, or just connectin
 ![Profile Views](https://komarev.com/ghpvc/?username=eriperspective&color=b9b297&style=flat-square)
 
 </div>
+
 
