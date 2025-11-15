@@ -1,8 +1,8 @@
-# Hi there, I'm Eri 👋
+# 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, 𝓘'𝓶 𝓔𝓻𝓲 👋
 
 <div align="center">
   
-### Software Engineer | Cloud & AI Enthusiast | Creative Solutions
+### Software Engineer | Cloud & AI Enthusiast | Creative Problem Solver
 
 *Building elegant solutions at the intersection of innovation and accessibility*
 
@@ -117,5 +117,7 @@ I'm always open to collaborating on projects, discussing tech, or just connectin
 ![Profile Views](https://komarev.com/ghpvc/?username=eriperspective&color=b9b297&style=flat-square)
 
 </div>
+
+
 
 
